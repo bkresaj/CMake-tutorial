@@ -1,5 +1,5 @@
 ## Introduction
-In this folder we will touch on building our first source code. If we want to compile it using compiler directly this is how we would do it(depending on which platform you are, you would have different compiler, for Linux it is gcc):
+In this folder we will touch on building our first source code. If we want to compile it using compiler directly this is how we would do it(depending on which platform you are, you would have different compiler, for Linux it is g++):
 
 ```bash
 g++ hello_world.cpp -o hello_world
